@@ -1,0 +1,6 @@
+@RegistroKilometrajeApi_HostAddress = http://localhost:5143
+
+GET {{RegistroKilometrajeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
